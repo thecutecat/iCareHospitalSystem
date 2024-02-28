@@ -1,6 +1,6 @@
-# react-point-of-sale
+# react-Hospital system
 
-A simple point of sale application built using react &amp; node.js.
+A Hospital Information System using node.js and ReactJs.
 
 ## Note
 
